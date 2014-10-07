@@ -1,0 +1,4 @@
+﻿C:\cygwin64
+
+mda-sg600.zdc.local
+3128
